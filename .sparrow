@@ -1,3 +1,3 @@
 sastOption:  
   excludedPath:  
-    - "c\sr*"
+    - "*c\\src\\*"
